@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "todo-shopping",
+    "slug": "todo-shopping",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
