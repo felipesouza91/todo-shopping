@@ -4,7 +4,7 @@ import ButtonText from '../../components/ButtonText';
 
 import { Container, Header, Title, Subtitle, Input, Account } from './styles';
 
-const SingIn: React.FC = () => {
+const SignIn: React.FC = () => {
   return (
     <Container>
       <Header>
@@ -27,4 +27,4 @@ const SingIn: React.FC = () => {
   );
 };
 
-export default SingIn;
+export default SignIn;
