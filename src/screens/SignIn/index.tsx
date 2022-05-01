@@ -1,8 +1,9 @@
 import React from 'react';
 import Button from '../../components/Button';
 import ButtonText from '../../components/ButtonText';
+import Input from '../../components/Input';
 
-import { Container, Header, Title, Subtitle, Input, Account } from './styles';
+import { Container, Header, Title, Subtitle, Account } from './styles';
 
 const SignIn: React.FC = () => {
   return (

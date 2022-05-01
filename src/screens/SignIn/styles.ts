@@ -21,12 +21,6 @@ export const Subtitle = styled.Text`
   color: ${({ theme }) => theme.COLORS.PURPLE};
 `;
 
-export const Input = styled.TextInput`
-  padding: 20px 10px;
-  background-color: ${({ theme }) => theme.COLORS.GRAY50};
-  border-radius: 7px;
-  margin-bottom: 10px;
-`;
 export const Account = styled.View`
   width: 100%;
   margin-top: 32px;
