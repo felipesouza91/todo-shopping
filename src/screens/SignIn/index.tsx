@@ -3,15 +3,15 @@ import Button from '../../components/Button';
 import ButtonText from '../../components/ButtonText';
 import Input from '../../components/Input';
 
-import { Container, Header, Title, Subtitle, Account } from './styles';
+import { Container, TitleSection, Title, Subtitle, Account } from './styles';
 
 const SignIn: React.FC = () => {
   return (
     <Container>
-      <Header>
+      <TitleSection>
         <Title>Todo-Shopping</Title>
         <Subtitle>monte sua lista de compras, te ajudar nas compras</Subtitle>
-      </Header>
+      </TitleSection>
       <Input placeholder="E-mail" />
       <Input placeholder="Senha" />
       <Button title="Entrar" />

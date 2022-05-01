@@ -7,7 +7,7 @@ export const Container = styled.View`
   padding: 24px;
 `;
 
-export const Header = styled.View`
+export const TitleSection = styled.View`
   align-items: center;
   margin-bottom: 32px;
 `;
